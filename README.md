@@ -4,5 +4,7 @@
 [正體中文](#前言)｜[English](#preface)
 
 ## 前言
+本作品為非官方流浪者（原神）角色主題曲。以Creative Common Attribution 4.0 International（CC BY 4.0）授權釋出。
 
 ## Preface
+This piece is fan-made Wanderer charater theme. Licensed under Creative Common Attribution 4.0 International (CC BY 4.0).
