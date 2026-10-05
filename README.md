@@ -4,7 +4,7 @@
 [正體中文](#前言)｜[English](#preface)
 
 ## 前言
-本作品為非官方流浪者（原神）角色主題曲。以Creative Common Attribution 4.0 International（CC BY 4.0）授權釋出。
+本作品為非官方流浪者（原神）角色主題曲。以Creative Common Attribution 4.0 International（CC BY 4.0／姓名標示 4.0 國際）授權釋出。
 
 於配器方面參考了莫里斯·拉威爾的《庫普蘭之墓：管弦樂組曲》和《展覽會之畫》（拉威爾改編版）。
 
