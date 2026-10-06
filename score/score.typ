@@ -86,5 +86,5 @@ Strings
 #v(1fr)
 
 #place(center)[
-    Duration: ca. 9\'
+    Duration: ca. 9′
 ]
