@@ -12,8 +12,8 @@
   font: ( 
     "EB Garamond",
 ),
-  number-type: "old-style",
-  number-width: "proportional",
+  number-type: "lining",
+  number-width: "tabular",
   size: 2em,
 )
 
@@ -87,4 +87,4 @@ Strings
 
 #place(center)[
     Duration: ca. 9 minutes
-] 
+]
