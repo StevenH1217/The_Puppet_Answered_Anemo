@@ -1,10 +1,10 @@
 #set page(
     paper: "a3", 
     margin: (
-        inside: 40mm,
-        outside: 56mm,
-        top: 46mm,
-        bottom: 64mm
+        inside: 20mm,
+        outside: 40mm,
+        top: 30mm,
+        bottom: 60mm
     ),
 )
 
