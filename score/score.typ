@@ -43,7 +43,7 @@
 
 #place(center + horizon)[
 = THE PUPPET ANSWERED BY ANEMO
-== Fan-made Wanderer Theme
+== Theme for Wanderer
 ]
 
 #v(1fr)
