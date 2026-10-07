@@ -72,11 +72,12 @@ Bass Clarinet in B♭ \
 2 Trumpets in C \
 3 Trombones \
 Timpani \
-Percussion \
+Percussion (4 players) \
 #h(2em)Glockenspiel \
 #h(2em)Tubular Bells \
 #h(2em)Bass Drum \
-#h(2em)Cymbals \
+#h(2em)Clash Cymbals \
+#h(2em)Suspended Cymbal \
 #h(2em)Tam-tam \
 #h(2em)Whip \
 Harp \
@@ -85,6 +86,6 @@ Strings
 
 #v(1fr)
 
-#place(center)[
+#align(center)[
     Duration: ca. 9′
 ]
