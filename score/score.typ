@@ -70,7 +70,8 @@ Bass Clarinet in B♭ \
 2 Bassoons \
 4 Horns in F \
 2 Trumpets in C \
-3 Trombones \
+2 Tenor Trombones \
+Bass Trombone \
 Timpani \
 Percussion (4 players) \
 #h(2em)Glockenspiel \
