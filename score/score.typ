@@ -29,7 +29,7 @@
 
 #align(left)[
   #block(width: auto)[
-    STEVEN HUANG \
+    QIANYOU HUANG \
 
     #align(center)[
       #text(features: ("ss04",))[
